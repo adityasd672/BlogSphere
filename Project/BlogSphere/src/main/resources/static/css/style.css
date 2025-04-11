@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+body {
+	background: #181818 !important;
+}
+
+.primary-background {
+	background: #181818 !important;
+	color: #eee !important;
+}
+.secondary-background {
+	background: #282828 !important;
+	color: #eee !important;
+}
+
+.yt-red {
+	color: #f00 !important;
+}
+
+.yt-red-background {
+	background-color: #f00 !important;
+}
+
+
